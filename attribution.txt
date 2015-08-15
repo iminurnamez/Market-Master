@@ -1,0 +1,16 @@
+
+animation.py from https://github.com/bitcraft/animation
+labels.py from https://github.com/iminurnamez/pyroller
+
+stock market noise
+https://www.freesound.org/people/Perplessio/sounds/179301/
+
+owl sound
+https://www.freesound.org/people/williew705/sounds/206009/
+
+
+GUI sounds
+http://opengameart.org/content/gui-sound-effects
+
+Songs
+"TowerDefenseTheme" http://opengameart.org/content/tower-defense-theme
